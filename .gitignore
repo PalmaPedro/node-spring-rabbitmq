@@ -1,0 +1,16 @@
+./publisher/node_modules
+
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### IntelliJ IDEA ###
+./consumer/idea
+./consumer/*.iws
+./consumer/*.iml
+./consumer/*.ipr
+
+### VS Code ###
+.vscode/
